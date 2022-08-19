@@ -114,7 +114,7 @@ It receives an object that contains three fields that can be updated in a TODO i
 }
 ```
 
-The id of an item that should be updated is passed as a URL parameter.
+The id of an item that should be updated is passed as a URL parameter
 
 It should return an empty body.
 
